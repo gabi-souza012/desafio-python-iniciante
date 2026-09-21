@@ -2,6 +2,8 @@
 
 01 - Cálculo de Comissão
 
+
+
 Programa que lê dados de vendas através de um arquivo JSON e calcula a comissão de cada vendedor.
 
 Conhecimentos utilizados:
@@ -25,6 +27,8 @@ if, elif e else
 input()
 Variáveis
 Operações matemáticas
+
+
  03 - Cálculo de Juros
 
 Programa que recebe o valor de uma conta e sua data de vencimento e calcula os juros de acordo com os dias de atraso.
