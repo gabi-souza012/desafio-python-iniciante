@@ -14,6 +14,8 @@ Variáveis
 if, elif e else
 for
 Cálculos matemáticos
+
+
 02 - Controle de Estoque
 
 Programa que permite realizar movimentações de entrada e saída de produtos e mostra a quantidade final disponível no estoque.
@@ -30,6 +32,7 @@ Operações matemáticas
 
 
  03 - Cálculo de Juros
+ 
 
 Programa que recebe o valor de uma conta e sua data de vencimento e calcula os juros de acordo com os dias de atraso.
 
